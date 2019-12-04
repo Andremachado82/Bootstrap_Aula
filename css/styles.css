@@ -1,0 +1,43 @@
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar{
+  background: #5fb404;
+}
+
+.margin {
+  padding: 30px 0 ;
+  background-color: rgb(116, 224, 174);
+}
+
+.quemsomos h3 {
+  margin: 20px auto;
+  /* margin-bottom:10px; */
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: normal;
+}
+
+.parceiros {
+  padding: 10px;
+  background-color: rgb(30, 180, 226);
+  color: white;
+}
+
+.parceiros h3 {
+  border: 1px solid white;
+  width: 200px;
+  display: inline-block;
+
+}
+
+.row img {
+  padding: 20px;
+}
+
+.bg-footer {
+  background-color: black;
+  color: white;
+}
